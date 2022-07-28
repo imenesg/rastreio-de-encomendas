@@ -1,0 +1,19 @@
+2022/07/24-18:04:31.184 8f0 Reusing MANIFEST C:\Users\imene\OneDrive\Área de Trabalho\rastreio node\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/24-18:04:31.185 8f0 Recovering log #72
+2022/07/24-18:04:31.402 8f0 Reusing old log C:\Users\imene\OneDrive\Área de Trabalho\rastreio node\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000072.log 
+2022/07/24-18:04:31.403 8f0 Delete type=2 #70
+2022/07/24-18:04:31.403 8f0 Delete type=2 #71
+2022/07/24-18:04:31.403 8f0 Delete type=2 #73
+2022/07/24-18:12:47.297 5594 Level-0 table #79: started
+2022/07/24-18:12:47.387 5594 Level-0 table #79: 1270678 bytes OK
+2022/07/24-18:12:47.395 5594 Delete type=0 #72
+2022/07/24-18:14:44.358 5594 Compacting 1@1 + 3@2 files
+2022/07/24-18:14:44.662 5594 Generated table #80@1: 31526 keys, 2256566 bytes
+2022/07/24-18:14:44.930 5594 Generated table #81@1: 49964 keys, 2270213 bytes
+2022/07/24-18:14:45.003 5594 Generated table #82@1: 12105 keys, 334235 bytes
+2022/07/24-18:14:45.003 5594 Compacted 1@1 + 3@2 files => 4861014 bytes
+2022/07/24-18:14:45.007 5594 compacted to: files[ 0 0 3 0 0 0 0 ]
+2022/07/24-18:14:45.008 5594 Delete type=2 #74
+2022/07/24-18:14:45.008 5594 Delete type=2 #75
+2022/07/24-18:14:45.008 5594 Delete type=2 #76
+2022/07/24-18:14:45.009 5594 Delete type=2 #79
